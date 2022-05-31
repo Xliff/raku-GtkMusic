@@ -1,0 +1,7 @@
+prefix=Gtk
+modules=lib/GTK/Music
+lib=music
+include-directory=/usr/src/libgtkmusic/build
+backups=backup,bitbucket,google-backup,azure-backup,hut
+build_exclude=
+hfile-suffix=_TERMINATED
